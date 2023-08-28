@@ -1,10 +1,4 @@
 /**
- * @author n1474335 [n1474335@gmail.com]
- * @copyright Crown Copyright 2016
- * @license Apache-2.0
- */
-
-/**
  * Object to handle the creation of operation categories.
  */
 class HTMLCategory {

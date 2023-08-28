@@ -1,9 +1,3 @@
-/**
- * @author n1474335 [n1474335@gmail.com]
- * @copyright Crown Copyright 2016
- * @license Apache-2.0
- */
-
 import Utils, { debounce } from "../core/Utils.mjs";
 import {fromBase64} from "../core/lib/Base64.mjs";
 import Manager from "./Manager.mjs";

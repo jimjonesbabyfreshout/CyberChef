@@ -1,13 +1,3 @@
-/**
- * Web worker to handle the inputs.
- * Handles storage, modification and retrieval of the inputs.
- *
- * @author j433866 [j433866@gmail.com]
- * @author n1474335 [n1474335@gmail.com]
- * @copyright Crown Copyright 2019
- * @license Apache-2.0
- */
-
 import Utils from "../../core/Utils.mjs";
 import loglevelMessagePrefix from "loglevel-message-prefix";
 

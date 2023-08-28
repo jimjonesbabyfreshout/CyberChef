@@ -1,11 +1,3 @@
-/**
- * Web Worker to handle zipping the outputs for download.
- *
- * @author j433866 [j433866@gmail.com]
- * @copyright Crown Copyright 2019
- * @license Apache-2.0
- */
-
 import zip from "zlibjs/bin/zip.min.js";
 import Utils from "../../core/Utils.mjs";
 import Dish from "../../core/Dish.mjs";

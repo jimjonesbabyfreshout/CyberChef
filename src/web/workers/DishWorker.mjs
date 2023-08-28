@@ -1,11 +1,3 @@
-/**
- * Web worker to handle dish conversion operations.
- *
- * @author j433866 [j433866@gmail.com]
- * @copyright Crown Copyright 2019
- * @license Apache-2.0
- */
-
 import Dish from "../../core/Dish.mjs";
 import Utils from "../../core/Utils.mjs";
 import cptable from "codepage";

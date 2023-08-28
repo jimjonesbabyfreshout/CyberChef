@@ -1,9 +1,3 @@
-/**
- * @author n1474335 [n1474335@gmail.com]
- * @copyright Crown Copyright 2016
- * @license Apache-2.0
- */
-
 import WorkerWaiter from "./waiters/WorkerWaiter.mjs";
 import WindowWaiter from "./waiters/WindowWaiter.mjs";
 import ControlsWaiter from "./waiters/ControlsWaiter.mjs";
