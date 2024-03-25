@@ -144,7 +144,7 @@
     "loglevel-message-prefix": "^3.0.0",
     "lz-string": "^1.5.0",
     "lz4js": "^0.2.0",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^13.0.2",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.41",
     "ngeohash": "^0.6.3",
